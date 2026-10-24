@@ -1,0 +1,84 @@
+# Orbital
+
+> Orbital is an AI platform for commercial real estate legal work. Law firms and in-house real estate teams use it for title and survey review, lease abstraction, property visualization, drafting and negotiation, and deal coordination. Orbital was founded in 2018 by Will Pearce and Ed Boulle and operated as Orbital Witness before rebranding to Orbital. It has offices in New York, London, and Los Angeles.
+
+Orbital connects the legal record of a property (title, survey, leases, and transaction documents) with its physical and spatial context, so legal and property teams can identify issues earlier and move transactions to close.
+
+Key facts:
+
+- Founded: 2018, by Will Pearce and Ed Boulle
+- Former name: Orbital Witness
+- Headquarters: New York, NY, USA. Additional offices in London, UK and Los Angeles, CA, USA
+- Employees: 150+
+- Users: 5,000+ real estate professionals
+- Volume: 250,000+ real estate transactions supported per year
+- Funding: $60M Series B, led by Brighton Park Capital
+- Investors include: Brighton Park Capital, JLL Spark, Moderne Ventures, REV, The LegalTech Fund, Outward, Grosvenor, Seedcamp, Parker89, LocalGlobe
+- Certifications: ISO 27001, SOC 2 Type 2. Practices designed to support GDPR and CCPA
+- Customer data and documents are not used to train Orbital's AI models
+- Regions served: United States and United Kingdom
+
+## Platform
+
+- [Platform overview](https://www.orbital.tech/platform): The AI platform for commercial real estate legal work.
+- [Asset Intelligence](https://www.orbital.tech/platform/asset-intelligence): Review title, survey, leases, and real estate data to understand what affects a property.
+- [Property Visualization](https://www.orbital.tech/platform/property-visualization): Plot legal descriptions, easements, and real estate data against the parcel.
+- [Drafting & Negotiation](https://www.orbital.tech/platform/drafting-negotiation): Draft, negotiate, and close from a firm's own forms and precedents.
+- [Deal Coordination](https://www.orbital.tech/platform/deal-coordination): Keep real estate teams and deal parties aligned around documents, decisions, and deadlines.
+
+## Use cases
+
+- [Acquisitions & Dispositions](https://www.orbital.tech/solutions/acquisitions): Surface title and survey issues early and compress deal timelines.
+- [Leasing](https://www.orbital.tech/solutions/leasing): Abstract, draft, and negotiate commercial leases and amendments.
+- [Development](https://www.orbital.tech/solutions/development): Identify title, zoning, access, and use constraints before a project moves forward.
+
+## Who uses Orbital
+
+- [Law firms](https://www.orbital.tech/solutions/law-firms): Partners, associates, and paralegals handling commercial real estate matters.
+- [Real estate businesses](https://www.orbital.tech/solutions/real-estate-businesses): Legal, development, asset management, and transaction teams at owner-operators, REITs, and developers.
+- [Occupiers](https://www.orbital.tech/solutions/occupiers): Legal, real estate, and leasing teams managing large property portfolios.
+
+## Customer stories
+
+- [Customers overview](https://www.orbital.tech/customers)
+- [Seyfarth Shaw](https://www.orbital.tech/customer-story/seyfarth): Am Law 100 firm applying practice-specific AI to real estate workflows.
+- [Vinson & Elkins](https://www.orbital.tech/customer-story/vinson-elkins)
+- [BCLP](https://www.orbital.tech/customer-story/bclp)
+- [Womble Bond Dickinson](https://www.orbital.tech/customer-story/womble-bond-dickinson)
+- [Macfarlanes](https://www.orbital.tech/customer-story/macfarlanes)
+- [Grosvenor](https://www.orbital.tech/customer-story/grosvenor)
+
+## Company
+
+- [About Orbital](https://www.orbital.tech/about): Founding story, leadership, offices, and investors.
+- [Security](https://www.orbital.tech/security): ISO 27001, SOC 2 Type 2, encryption, access controls, and audit trails.
+- [Careers](https://www.orbital.tech/careers)
+- [Contact](https://www.orbital.tech/contact-us)
+- [Request a demo](https://www.orbital.tech/demo)
+- [Privacy policy](https://www.orbital.tech/privacy-policy)
+
+## Resources
+
+- [Blog and resources](https://www.orbital.tech/blog)
+- [$60M Series B announcement](https://www.orbital.tech/blog/announcing-our-60m-series-b-fundraise)
+- [Beyond speed: defining legal value in real estate as AI reshapes expectations](https://www.orbital.tech/blog/ai-legal-value-in-real-estate)
+- [How law firms are operationalising AI](https://www.orbital.tech/blog/how-law-firms-are-operationalising-ai)
+- [Rethinking real estate legal AI: why your practice area demands a specialized approach](https://www.orbital.tech/blog/rethinking-real-estate-legal-ai-why-your-practice-area-demands-a-specialized-approach)
+- [More than words: what legal AI misses in real estate document reviews](https://www.orbital.tech/blog/more-than-words-what-legal-ai-misses-in-real-estate-document-reviews)
+- [Partnership with ACREL](https://www.orbital.tech/blog/bringing-real-estate-legal-ai-to-acrel-our-partnership)
+
+## United Kingdom
+
+Orbital maintains a UK version of the site at https://www.orbital.tech/uk with regionally adapted content.
+
+- [Orbital UK](https://www.orbital.tech/uk)
+- [Residential conveyancing (UK)](https://www.orbital.tech/uk/solutions/residential-conveyancing)
+- [Insurers (UK)](https://www.orbital.tech/uk/solutions/insurers)
+
+## Optional
+
+- [Sitemap](https://www.orbital.tech/sitemap.xml)
+- [LinkedIn](https://www.linkedin.com/company/orbital-technology/)
+- [X](https://x.com/orbital_news)
+- [YouTube](https://www.youtube.com/@watch_orbital)
+

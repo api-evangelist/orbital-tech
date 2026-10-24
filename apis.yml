@@ -1,25 +1,84 @@
 aid: orbital-tech
+
 name: Orbital
-description: 'Orbital is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by seedcamp) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/6a462f7758e73e174119a505/6a8cae4a4e43bf78a635cf04_Preview.png
+
+description: 'Orbital provides an AI platform for commercial real estate legal work, helping law firms, real estate businesses, and occupiers automate title, survey, lease analysis, and transaction coordination. The platform surfaces legal issues early, visualizes property data, and streamlines drafting and negotiation, accelerating deal timelines and reducing risk for commercial real estate transactions.'
+
 url: https://raw.githubusercontent.com/api-evangelist/orbital-tech/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-23 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-23'
+
 modified: '2026-10-23'
+
 tags:
+- AI
+- Real Estate
+- LegalTech
+- Commercial
+- Platform
 - Company
-apis: []
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
+common:
+- type: Compliance
+  url: https://www.orbital.tech/security
+- type: LLMsTxt
+  url: llms/orbital-tech-llms.txt
+- type: WellKnown
+  url: well-known/orbital-tech-well-known.yml
+- type: Hosts
+  url: hosts/orbital-tech-hosts.yml
+- type: Vendors
+  url: vendors/orbital-tech-vendors.yml
+- type: Security
+  url: https://www.orbital.tech/security
+- type: TrustCenter
+  url: security/orbital-tech-trust-center.yml
+- type: DomainSecurity
+  url: security/orbital-tech-domain-security.yml
+- type: Website
+  url: https://www.orbital.tech
+- type: Blog
+  url: https://www.orbital.tech/blog
+- type: PrivacyPolicy
+  url: https://www.orbital.tech/privacy-policy
+- type: About
+  url: https://www.orbital.tech/about
+- type: Contact
+  url: https://www.orbital.tech/contact-us
+
+apis: []
+
 x-backed-by:
 - seedcamp
-common:
-- type: Website
-  url: http://orbital.tech
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: The provider's website does not expose any machine‑readable API specification and developer documentation is behind a login page.
+  evidence:
+    - url: https://www.orbital.tech
+      status: 200
+  checked: '2026-10-23'
+x-enrichment:
+  date: '2026-10-23'
+  status: enriched
+  artifacts_added: 11
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
